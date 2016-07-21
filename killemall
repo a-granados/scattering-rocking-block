@@ -1,0 +1,16 @@
+killall find_het5.2_linear.sh
+killall find_het5.3.sh
+killall find_het5.2.sh
+killall find_het5.sh
+killall find_het4.sh
+killall find_het4.2.sh
+killall find_het4.3.sh
+killall find_het2.2.sh
+killall find_sm.sh
+killall find_um.sh
+killall distribute_sm.sh
+killall distribute_sm2.sh
+killall distribute_um.sh
+killall distribute_um2.sh
+#./kill_clients.sh find_sm clients_sm_tmp
+#./kill_clients.sh find_um clients_um_tmp
